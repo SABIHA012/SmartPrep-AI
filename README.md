@@ -176,7 +176,7 @@ All project resources used for the SmartPrep AI analysis and prototype are liste
 |---|---|---|
 | 📊 Excel Analysis & Charts | Dataset summaries, charts, and key business insights | [View Excel Analysis](./SmartPrep_AI_Analysis_and_Charts.xlsx) |
 | 🧠 Orange Workflow | Machine learning workflow comparing Linear Regression and Random Forest | [Open Orange Workflow](./orange-workflow/SmartPrep_AI_Orange_Workflow.ows) |
-| 🌐 Live Website | Interactive SmartPrep AI web application | [Visit SmartPrep AI](ADD_YOUR_LIVE_WEBSITE_URL_HERE) |
+| 🌐 Live Website | Interactive SmartPrep AI web application | [Visit SmartPrep AI](https://smartprep-kitchen-ai.lovable.app) |
 
 ### Tools Used
 
